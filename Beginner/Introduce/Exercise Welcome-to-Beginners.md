@@ -1,4 +1,5 @@
 Challenge link: https://dreamhack.io/wargame/challenges/812 
+Chạy code và nhập "Dreamhack" thì flag sẽ hiện ra
 
 ![Screenshot 2024-11-28 234642](https://github.com/user-attachments/assets/04826321-0e3a-4ed6-ae34-b7f9cf4cae63)
 
