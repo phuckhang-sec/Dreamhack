@@ -13,11 +13,11 @@
 
   + Toán tử Bitwise:
     
-    ![Screenshot 2024-11-29 224347](https://github.com/user-attachments/assets/3f1e2700-4d65-4cfd-adb1-0ca279f6c899)
+  ![Screenshot 2024-11-29 224347](https://github.com/user-attachments/assets/3f1e2700-4d65-4cfd-adb1-0ca279f6c899)
 
   + Toán tử Dịch chuyển (Shift Operators):
 
-    ![Screenshot 2024-11-29 231246](https://github.com/user-attachments/assets/66e2a565-89fd-4a9d-93a9-8338022a2ce4)
+  ![Screenshot 2024-11-29 231246](https://github.com/user-attachments/assets/66e2a565-89fd-4a9d-93a9-8338022a2ce4)
 
 - Encoding (Mã hóa) and Decoding (Giải mã):
   + Mã ASCII (America Standard Code Information Interchange): là một tiêu chuẩn để mã hóa kí tự (chuyển đổi chữ cái thành chữ số). Một kí tự ASCII có kích thước 1 byte, gồm 7 bit để biểu diễn kí tự và 1 bit để kiếm tra lỗi. Điều này tạo ra 128 biễu diễn kí tự có thể từ 0 -> 127.
