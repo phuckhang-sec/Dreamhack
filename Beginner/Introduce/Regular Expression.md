@@ -11,3 +11,11 @@
 - Cờ của BTCQ:
 
 ![Screenshot 2024-12-01 195137](https://github.com/user-attachments/assets/cc68e808-a263-42cc-9180-7246ade001dc)
+
+- Tìm Flag của BTCQ bằng Python:
+
+![Screenshot 2024-12-01 195251](https://github.com/user-attachments/assets/7a44a285-53c9-4edc-89ca-76cb6490a7fd)
+
+![Screenshot 2024-12-01 195316](https://github.com/user-attachments/assets/98332659-8152-4567-b4f3-0ccf5f3c8ddc)
+
+
