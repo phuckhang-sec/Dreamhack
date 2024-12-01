@@ -1,5 +1,5 @@
 - Regular Expression (Biểu thức chính quy): là một biểu thức biểu diễn một chuỗi kí tự theo một mẫu cụ thể, được sử dụng đẻ xác thực giá trị đầu vào.
-- Ex: BTCH của email: xxx@xxx.xxx
+- Ex: BTCQ của email: xxx@xxx.xxx
 - Các dạng biểu diễn biểu thức chính quy:
 
 ![Screenshot 2024-12-01 194736](https://github.com/user-attachments/assets/a55f397a-e66e-40d3-9ff1-10494347251b)
@@ -8,3 +8,6 @@
 
 ![Screenshot 2024-12-01 194750](https://github.com/user-attachments/assets/c41c9f94-e800-4927-8cd3-bb52fae8928d)
 
+- Cờ của BTCQ:
+
+![Screenshot 2024-12-01 195137](https://github.com/user-attachments/assets/cc68e808-a263-42cc-9180-7246ade001dc)
