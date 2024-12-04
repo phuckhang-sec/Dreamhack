@@ -20,6 +20,14 @@ Do có 26 chữ cái nên có thể có 26 khóa.
 
 ![image](https://github.com/user-attachments/assets/ae1dd58c-2239-437b-8abd-85162054569d)
 
+- Attack Classical Ciphers: 
+  + Exhaustive Key Search Attack: tấn công tìm khóa toàn diện bằng cách khai thác toàn bộ không gian khóa (tất cả các trường hợp) để giải mã được văn bản thuần túy. Là một cách tấn công đơn giản, phù hợp với không gian khóa nhỏ.
+  + Frequency Analysis (Phân tích tần số): sử dụng tính thống kê của mật mã thay thế đơn chữ cái để phân tích tần suất xuất hiện của các chữ cái tiếng anh
+
+![image](https://github.com/user-attachments/assets/e3b2f8a7-eda6-4072-8d3a-6dfc4c9bb29a)
+
+
+
 
 
 
